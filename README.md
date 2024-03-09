@@ -4,3 +4,5 @@
     s="https://GitHub-readme-stats.vercel.app/api?username=Not-Kyle&show_icons=true&theme=dark"
     m="(prefers-color-scheme: dark)"
   />
+<img se="https://github-readme-stats.vercel.app/api?username=Not-Kyle&show_icons=true" />
+</picture>
