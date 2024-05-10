@@ -19,7 +19,7 @@ backdoor.exe
 ```
 > [!IMPORTANT]\
 > **My recent updates!** <br />
-> I have just updated my readme files and just ten minutes ago I released Version 4 of my Spam Gui [v4.4b](https://github.com/Not-Kyle/Universal-Scripts.lua/blob/main/Spam.lua) <br />
+> I have just updated my readme files and I have just released version four of my Spam Gui [v4.4b](https://github.com/Not-Kyle/Universal-Scripts.lua/blob/main/Spam.lua) <br />
 > **Whats Next?** <br />
 > I'm currently working on a universal admin called [Haunted.7z](https://github.com/Not-Kyle/Haunted.7z) <br />
 > **Thank you all for contributing to my Github since 2021** <br />
