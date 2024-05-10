@@ -21,6 +21,6 @@ backdoor.exe
 > **My recent updates!** <br />
 > I have just updated my readme files and I have just released version four of my Spam Gui [v4.4b](https://github.com/Not-Kyle/Universal-Scripts.lua/blob/main/Spam.lua) <br />
 > **Whats Next?** <br />
-> I'm currently working on a universal admin called [Haunted.7z](https://github.com/Not-Kyle/Haunted.7z) <br />
+> I'm currently working on a universal admin called [Haunted.7z](https://github.com/Not-Kyle/Haunted.7z) 7z of course representing the seven zip file. <br />
 > **Thank you all for contributing to my Github since 2021** <br />
 
