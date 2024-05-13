@@ -19,7 +19,6 @@ backdoor.exe
 ```
 > [!IMPORTANT]\
 > **My recent updates!** <br />
-> I have just updated my readme files and I have just released version four of my Spam Gui [v4.4b](https://github.com/Not-Kyle/Universal-Scripts.lua/blob/main/Spam.lua) <br />
 > I just recently started working on a universal admin called [Haunted.7z](https://github.com/Not-Kyle/Haunted.7z), 7z of course representing the seven zip file. <br />
 > **Whats Next?** <br />
 > I am currently learning Java as Luau Exploiting is down until another executor is released. <br />
