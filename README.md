@@ -19,7 +19,7 @@ backdoor.exe
 ```
 > [!IMPORTANT]\
 > **My recent updates!** <br />
-> I just recently started working on a universal admin called [Haunted.7z](https://github.com/Not-Kyle/Haunted.7z), 7z of course representing the seven zip file. <br />
+> I just recently started working on a universal admin called [Haunted.7z](https://github.com/Not-Kyle/Haunted.7z), 7z of course representing the seven zip file. I've also posted my [Rotational Cursor](https://github.com/Not-Kyle/Universal-Scripts.lua/blob/main/Rotational%20Cursor.lua), I had just left it laying around randomly. <br />
 > **Whats Next?** <br />
 > I am currently resuming learning Java as Luau Exploiting is down until another executor is released. <br />
 > **Thank you all for contributing to my Github since 2021, Since I was 14 I've been determined to create scripts and I couldn't be more appreciative of your support! I couldn't of done it without all of you!** <br />
