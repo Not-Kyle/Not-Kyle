@@ -19,7 +19,7 @@ backdoor.exe
 ```
 > [!IMPORTANT]\
 > **My recent updates!** <br />
-> I've just posted my Prison Script [Souljias](https://github.com/Not-Kyle/Souljias). I also just came out with my Blink V2, as it features four different kinds of Sprinting Methods. [Blink Verison 2](https://github.com/Not-Kyle/Universal-Scripts.lua/blob/main/Sprint.lua) <br />
+> I just came out with my Blink V2, as it features four different kinds of Sprinting Methods. [Blink Verison 2](https://github.com/Not-Kyle/Universal-Scripts.lua/blob/main/Sprint.lua) <br />
 > **Whats Next?** <br />
 > Currently, I am making private script named ILLSEEYOUIN40, for MiscGunText:X in Roblox. I have a very overpowered godmode already. <br />
 > **Focused Languages** <br />
