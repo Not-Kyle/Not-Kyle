@@ -19,11 +19,12 @@ https://www.lua.org/docs.html
 https://web.archive.org/web/20230314183147/https://docs.synapse.to/development/script_env.html [Synapse X Docs]
 ```
 ## Contact Information
-My discord handles are
+<br />
 ```
-killserver or backdoor.exe
+Discord: killserver or backdoor.exe
 ```
-
+<br />
+<br />
 > [!IMPORTANT]\
 > **Focused Languages** <br />
 > C++, Java <br />
