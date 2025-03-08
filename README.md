@@ -1,5 +1,5 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Not-Kyle&show_icons=true&theme=midnight-purple&line_height=27) <br />
-[//]: <> (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Kyle&layout=compact))
+[//]: # (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Kyle&layout=compact))
 
 > [!IMPORTANT]\
 > My name is Cory! I am currently a junior programmer as I have been programming for four to five years now. My current status learning Java and C++. I'm fluent in Lua and intermediate in Java, but I am a advanced beginner in C++
