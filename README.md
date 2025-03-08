@@ -20,9 +20,11 @@ https://web.archive.org/web/20230314183147/https://docs.synapse.to/development/s
 ```
 ## Contact Information
 <br />
+
 ```
 Discord: killserver or backdoor.exe
 ```
+
 <br />
 <br />
 > [!IMPORTANT]\
