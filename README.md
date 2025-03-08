@@ -26,10 +26,10 @@ Discord: killserver or backdoor.exe
 ```
 
 <br />
-<br />
 
 > [!IMPORTANT]\
 > **Focused Languages** <br />
-> C++, Java <br />
+> C++, Java
+> <br />
 > **Thank you all for contributing to my Github since 2021, Since I was 14 I've been determined to create scripts and I couldn't be more appreciative of your support! I couldn't of done it without all of you!** <br />
 
