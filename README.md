@@ -7,6 +7,17 @@
 ```
 https://java-programming.mooc.fi/
 ```
+**C++ Sources!**
+```
+https://www.learncpp.com/
+```
+**Lua/Luau Sources!**
+```
+https://create.roblox.com/docs
+https://devforum.roblox.com/
+https://www.lua.org/docs.html
+https://web.archive.org/web/20230314183147/https://docs.synapse.to/development/script_env.html [Synapse X Docs]
+```
 ```
 killserver
 ```
