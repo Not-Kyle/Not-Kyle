@@ -1,7 +1,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Not-Kyle&show_icons=true&theme=midnight-purple&line_height=27) <br />
 
 > [!IMPORTANT]\
-> My name is Cory! I am currently a junior programmer as I have been learning Java and C++ recently. I'm fluent in Lua and intermediate in Java, but I am a advanced beginner in C++
+> My name is Cory! I am currently a junior programmer as I have been programming for four to five years now. My current status learning Java and C++. I'm fluent in Lua and intermediate in Java, but I am a advanced beginner in C++
 
 **Java Sources!**
 ```
