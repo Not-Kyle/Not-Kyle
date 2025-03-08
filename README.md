@@ -3,7 +3,7 @@
 > [!IMPORTANT]\
 > My name is Cory! I am currently a junior programmer as I have been learning Java and C++ recently. I'm fluent in Lua and intermediate in Java, but I am a advanced beginner in C++
 
-###Java Sources
+**Java Sources!**
 ```
 https://java-programming.mooc.fi/
 ```
