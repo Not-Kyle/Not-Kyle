@@ -19,7 +19,7 @@ https://www.lua.org/docs.html
 https://web.archive.org/web/20230314183147/https://docs.synapse.to/development/script_env.html [Synapse X Docs]
 ```
 ## Contact Information
-> My discord handles are
+My discord handles are
 ```
 killserver or backdoor.exe
 ```
