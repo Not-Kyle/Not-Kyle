@@ -20,6 +20,7 @@ https://devforum.roblox.com/
 https://www.lua.org/docs.html
 https://web.archive.org/web/20230314183147/https://docs.synapse.to/development/script_env.html [Synapse X Docs]
 https://luau.github.io/Executor-API-Docs/Sentinel
+https://duckys-playground.gitbook.io/wave/functions [Waves new functions]
 ```
 ## Contact Information
 <br />
