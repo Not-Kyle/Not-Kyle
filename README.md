@@ -2,8 +2,9 @@
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Kyle&layout=compact) -->
 
 > [!IMPORTANT]\
-> My name is Cory! I am currently a junior programmer as I have been programming for four to five years now. My current status learning Java and C++. I'm fluent in Lua and intermediate in Java, but I am a advanced beginner in C++
+> My name is Cory! I am currently a mid-level programmer as I have been programming for four to five years now. My current status learning Java and C++. I'm fluent in Lua and intermediate in Java, but I am a advanced beginner in C++
 > I can read and write multiple languages like Javascript and Python, I can also do a bit of C but I have not done enough to say I can program in them
+<!-- xd -->
 
 **Java Sources!**
 ```
