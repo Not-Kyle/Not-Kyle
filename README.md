@@ -9,6 +9,7 @@
 **Java Sources!**
 ```
 https://java-programming.mooc.fi/
+https://docs.oracle.com/en/
 ```
 **C++ Sources!**
 ```
