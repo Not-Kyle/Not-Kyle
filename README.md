@@ -1,10 +1,11 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Not-Kyle&show_icons=true&theme=midnight-purple&line_height=27) <br />
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Kyle&layout=compact) -->
 
-> [!IMPORTANT]\
-> My name is Cory! I am currently a mid-level programmer as I have been programming for four to five years now. My current status learning Java and C++. I'm fluent in Lua and intermediate in Java, but I am a advanced beginner in C++
-> I can read and write multiple languages like Javascript and Python, I can also do a bit of C but I have not done enough to say I can program in them
-<!-- xd -->
+> [!IMPORTANT]
+> Hi, my name is Cory! I’ve been programming for about six years, currently working as a junior developer with experience in Lua, Java, C/C++, and Rust.
+> I began my programming journey in October 2020 writing Lua scripts for exploits. As of Today I'm fluent in Lua and intermediate in Java, while current working at low level langauges. Soon I may be working towards VST's and Audio development!
+
+---
 
 **Java Sources!**
 ```
@@ -31,11 +32,11 @@ https://duckys-playground.gitbook.io/wave/functions [Waves new functions]
 Discord: killserver or backdoor.exe
 ```
 
-<br />
+---
 
-> [!IMPORTANT]\
+> [!IMPORTANT]
 > **Focused Languages** <br />
->   C++, Java <br />
+> C & C++ <br />
 > <br />
 > **Thank you all for contributing to my Github since 2021, Since I was 14 I've been determined to create scripts and I couldn't be more appreciative of your support! I couldn't of done it without all of you!** <br />
 
