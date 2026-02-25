@@ -2,7 +2,7 @@
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Kyle&layout=compact) -->
 
 > [!IMPORTANT]
-> Hi, my name is Cory! I’ve been programming for about six years, currently working as a junior developer with experience in Lua, Java, C/C++, and Rust.
+> Hi, my name is Cory! I’ve been programming for about six years, currently working as a junior developer with experience in Lua, Java, C/C++, and Rust. <br />
 > I began my programming journey in October 2020 writing Lua scripts for exploits. As of Today I'm fluent in Lua and intermediate in Java, while current working at low level langauges. Soon I may be working towards VST's and Audio development!
 
 ---
